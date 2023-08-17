@@ -1,0 +1,65 @@
+    1  pwd
+    2  ls
+    3  pwd
+    4  cd holi
+    5  pwd
+    6  ls
+    7  cd ..
+    8  cd ..
+    9  mkdir
+   10  mkdir documents and settings "doc and sets" 
+   11  ls
+   12  cd documents/
+   13  ..
+   14  cd ..
+   15  cd documents
+   16  touch archivo.jpg archivo.pdf archivo.php   
+   17  ls
+   18  rm archivo.jpg
+   19  ls
+   20  clear
+   21  clear
+   22  cd ..
+   23  mkdir DH
+   24  cd DH
+   25  mkdir Películas
+   26  cd Películas
+   27  mkdir Infantiles Accion Terror Comedia Romanticas
+   28  ls
+   29  cd Accion
+   30  touch Intenzamente.txt E"l juego del miedoR.txt" "apido y Furioso .txt" Titanic.txt
+   31  ls
+   32  mv 'El juego del miedoR.txt' 'El juego del miedo.txt'
+   33  mv "apido y Furioso .txt" "Rapido y Furioso.txt"
+   34  ls
+   35  git remote add originn https://github.com/a
+ndavidp95/hola.git
+   36  git remote add originn https://github.com/a
+ndavidp95/hola.git
+   37  git remote add origin https://github.com/andavidp95/hola.git
+   38  git remote add origin https://github.com/andavidp95/hola.git
+   39  git remote add origin https://github.com/andavidp95/hola.git
+   40  git init
+   41  git remote add origin https://github.com/andavidp95/hola.git
+   42  git renote -v
+   43  git remote -v
+   44  git init
+   45  touch main.js
+   46  touch index.html
+   47  git commit -m "commit 01 de AndresPincay"   
+   48  git add .
+   49  git commit -m "commit 01 de AndresPincay"   
+   50  git remote add origin https://github.com/andavidp95/Checkpoint-AndresPincay.git
+   51  git push origin main
+   52  git checkout -b feature
+   53  mkdir hardware software SeguridadInformatica   54  git push -u origin feature
+   55  git status
+   56  git add .
+   57  git commit -m "commit 02 AndresPincay"      
+   58  git push -u origin feature
+   59  git checkout main
+   60  git mv main.js resumenHardware.txt
+   61  git mv index.html resumenSoftware.txt       
+   62  touch comandos.txt
+   63  git history
+   64  history
